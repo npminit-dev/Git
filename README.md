@@ -1,3 +1,3 @@
-## GH test
 # Git
+## GitHub
 Git test repo
