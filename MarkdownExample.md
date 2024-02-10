@@ -1,3 +1,7 @@
+
+la siguiente cita fue agregada por npminit-dev-little mediante una PR con conflictos que hemos podido solucionar
+> Cita creada por la PR de npminit-dev-little
+
 <!-- titulos -->
 # Titulo mayor
 ## Segundo titulo mayor
